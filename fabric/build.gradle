@@ -15,6 +15,9 @@ dependencies {
     implementation project(":common")
 
     modImplementation "curse.maven:monolib-968432:5443112"
+
+    // JEI
+    modImplementation "curse.maven:jei-238222:5630569"
 }
 
 loom {

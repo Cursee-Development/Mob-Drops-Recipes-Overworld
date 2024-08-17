@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_common_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mob_drops_recipes_overworld:overworld_essence_common"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_common_essence"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mob_drops_recipes_overworld:overworld_essence_uncommon"
+    ]
+  },
+  "sends_telemetry_event": false
+}

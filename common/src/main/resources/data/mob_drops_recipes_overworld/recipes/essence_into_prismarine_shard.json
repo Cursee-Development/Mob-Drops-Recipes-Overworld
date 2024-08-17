@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "e2i",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_overworld:overworld_essence_uncommon"
+    }
+  },
+  "pattern": [
+    "   ",
+    "EE ",
+    "EE "
+  ],
+  "result": {
+    "item": "minecraft:prismarine_shard"
+  },
+  "show_notification": true
+}

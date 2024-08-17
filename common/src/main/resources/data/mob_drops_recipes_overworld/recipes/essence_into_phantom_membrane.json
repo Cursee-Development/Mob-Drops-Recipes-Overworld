@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "e2i",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_overworld:overworld_essence_rare"
+    }
+  },
+  "pattern": [
+    "   ",
+    "EE ",
+    "   "
+  ],
+  "result": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "show_notification": true
+}

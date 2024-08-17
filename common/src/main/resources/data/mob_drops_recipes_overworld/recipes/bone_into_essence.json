@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "i2e",
+  "key": {
+    "E": {
+      "item": "minecraft:bone"
+    }
+  },
+  "pattern": [
+    "E",
+    "E"
+  ],
+  "result": {
+    "count": 2,
+    "item": "mob_drops_recipes_overworld:overworld_essence_common"
+  },
+  "show_notification": true
+}

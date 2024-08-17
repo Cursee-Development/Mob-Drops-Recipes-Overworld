@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "pure",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_overworld:overworld_essence_common"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "result": {
+    "item": "mob_drops_recipes_overworld:overworld_essence_uncommon"
+  },
+  "show_notification": true
+}

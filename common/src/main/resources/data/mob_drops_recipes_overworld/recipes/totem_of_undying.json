@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "O": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "pattern": [
+    "EOE",
+    "EEE",
+    " E "
+  ],
+  "result": {
+    "item": "minecraft:totem_of_undying"
+  },
+  "show_notification": true
+}
