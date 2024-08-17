@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "H": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "pattern": [
+    "   ",
+    " H ",
+    " E "
+  ],
+  "result": {
+    "item": "minecraft:slime_ball"
+  },
+  "show_notification": true
+}

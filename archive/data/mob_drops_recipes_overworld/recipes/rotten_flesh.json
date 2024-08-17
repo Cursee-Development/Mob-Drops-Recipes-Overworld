@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "M": {
+      "item": "minecraft:beef"
+    }
+  },
+  "pattern": [
+    "   ",
+    "SM ",
+    "   "
+  ],
+  "result": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "show_notification": true
+}

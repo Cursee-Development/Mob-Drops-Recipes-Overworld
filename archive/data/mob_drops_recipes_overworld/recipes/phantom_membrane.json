@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    " Q ",
+    "QAQ",
+    " Q "
+  ],
+  "result": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "show_notification": true
+}
