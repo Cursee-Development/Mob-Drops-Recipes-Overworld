@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_epic_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mob_drops_recipes_overworld:overworld_essence_epic"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_epic_essence"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mob_drops_recipes_overworld:essence_into_trident"
+    ]
+  },
+  "sends_telemetry_event": false
+}

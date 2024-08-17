@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "R": {
+      "item": "minecraft:raw_iron"
+    }
+  },
+  "pattern": [
+    " R ",
+    "RQ ",
+    "   "
+  ],
+  "result": {
+    "id": "minecraft:prismarine_shard"
+  },
+  "show_notification": true
+}

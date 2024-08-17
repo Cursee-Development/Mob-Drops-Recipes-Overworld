@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "e2i",
+  "key": {
+    "E": {
+      "item": "mob_drops_recipes_overworld:overworld_essence_epic"
+    }
+  },
+  "pattern": [
+    "   ",
+    "EEE",
+    "   "
+  ],
+  "result": {
+    "id": "minecraft:totem_of_undying"
+  },
+  "show_notification": true
+}
